@@ -1,0 +1,19 @@
+<html>
+
+<body>
+    <header id="banner">{% include header.html %}</header>
+    <div class="header-hamburger">
+      <button class="cmn-toggle-switch cmn-toggle-switch__htx">
+        <span>toggle menu</span>
+      </button>
+    </div>
+    <div id="main">
+      <div id="content">
+  
+        {{ content | expand_urls: root_url }}
+  
+      </div>
+    </div>
+    <footer id="main_footer">{% include footer.html %}</footer>
+  </body>
+  </html>

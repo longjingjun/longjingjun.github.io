@@ -5,9 +5,13 @@ For transfer data to iPad device, I done some research/reading on two different 
 ## WIFI
 
 Tech Specs from Apple:
+
 iPad Pro
+
 * Wi-Fi (802.11a/b/g/n/ac); dual band (2.4GHz and 5GHz); HT80 with MIMO
+
 iPad
+
 * Wi‑Fi (802.11a/b/g/n/ac); dual band (2.4GHz and 5GHz); HT80 with MIMO
 
 
@@ -36,6 +40,7 @@ In *bits* per second, that is:
 * USB 2.0 = 480 Mbit/s
 * USB 3.0 = 5 Gbit/s
 * USB 3.1 = 10 Gbit/s
+
 In *Bytes* per second, that is:
 * USB 1.1 = 1.5 MB/s
 * USB 2.0 = 60 MB/s

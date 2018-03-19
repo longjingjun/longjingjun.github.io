@@ -62,5 +62,3 @@ My Summary
     *  Centralize the update action. Assign a dedicate administrators and dedicate WIFI or USB environment to update the manuals on the device. The user gets the device from administrator.
     *  It is hard for normal user to use USB cable to update data. (I did not see anyone use USB cable to transfer data to iPad or install app on iPad in real life). If we design to have normal user to update the manual, it will be via WIFI. The key is to make sure user get high speed WIFI when they update.
 
-Thanks
-Jingjun
